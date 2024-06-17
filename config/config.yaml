@@ -1,0 +1,4 @@
+target_site:
+  url: "https://books.toscrape.com/"
+output:
+  file: "books.json"
